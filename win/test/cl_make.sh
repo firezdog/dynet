@@ -1,0 +1,1 @@
+g++ cl_test.cpp -o cl_test -lcl_dynet
